@@ -8,3 +8,12 @@
 2. Then write the Terraform backend code and run Terraform init in your termianl to activate Terraform
 
 <img width="828" height="202" alt="Screenshot from 2025-10-22 11-03-46" src="https://github.com/user-attachments/assets/de436385-9206-4b82-b3ba-39c06d71dfbc" />
+
+3. Create your Vpc and subnet and Internet gateway and route table.
+
+<img width="843" height="574" alt="Screenshot from 2025-10-22 11-02-27" src="https://github.com/user-attachments/assets/e558f2ea-6832-4f4c-b5c0-73060b21ce7d" />
+
+4. Define your security group in your terraform security group file.
+
+<img width="836" height="543" alt="Screenshot from 2025-10-22 10-13-32" src="https://github.com/user-attachments/assets/d93721c2-2d4b-4daf-abe1-db159ed1bc1f" />
+
