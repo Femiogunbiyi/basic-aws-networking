@@ -17,3 +17,11 @@
 
 <img width="836" height="543" alt="Screenshot from 2025-10-22 10-13-32" src="https://github.com/user-attachments/assets/d93721c2-2d4b-4daf-abe1-db159ed1bc1f" />
 
+5. Run Terraform validate to check for syntax errors.
+6. Then Terraform plan.
+7. Then Terraform apply to apply the resources.
+8. confirm the resources in your console.
+
+<img width="1129" height="146" alt="Screenshot from 2025-10-22 10-09-23" src="https://github.com/user-attachments/assets/758c8abc-60ce-4019-a106-67beb9e0a859" />
+
+
