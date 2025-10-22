@@ -23,7 +23,7 @@
 
 <img width="705" height="282" alt="Screenshot from 2025-10-22 10-12-13" src="https://github.com/user-attachments/assets/3a800085-466c-430d-bb35-5d6b496819b2" />
 
-8. confirm the resources in your console.
+8. Confirm the resources in your console.
 
 <img width="1129" height="146" alt="Screenshot from 2025-10-22 10-09-23" src="https://github.com/user-attachments/assets/758c8abc-60ce-4019-a106-67beb9e0a859" />
 
